@@ -1,0 +1,11 @@
+D:\Documentos Daniel\CODIGOS\C#\Nova pasta\CalcType1\CalcType1\bin\Debug\CalcType1.exe.config
+D:\Documentos Daniel\CODIGOS\C#\Nova pasta\CalcType1\CalcType1\bin\Debug\CalcType1.exe
+D:\Documentos Daniel\CODIGOS\C#\Nova pasta\CalcType1\CalcType1\bin\Debug\CalcType1.pdb
+D:\Documentos Daniel\CODIGOS\C#\Nova pasta\CalcType1\CalcType1\obj\Debug\CalcType1.csproj.AssemblyReference.cache
+D:\Documentos Daniel\CODIGOS\C#\Nova pasta\CalcType1\CalcType1\obj\Debug\CalcType1.csproj.SuggestedBindingRedirects.cache
+D:\Documentos Daniel\CODIGOS\C#\Nova pasta\CalcType1\CalcType1\obj\Debug\CalcType1.Form1.resources
+D:\Documentos Daniel\CODIGOS\C#\Nova pasta\CalcType1\CalcType1\obj\Debug\CalcType1.Properties.Resources.resources
+D:\Documentos Daniel\CODIGOS\C#\Nova pasta\CalcType1\CalcType1\obj\Debug\CalcType1.csproj.GenerateResource.cache
+D:\Documentos Daniel\CODIGOS\C#\Nova pasta\CalcType1\CalcType1\obj\Debug\CalcType1.csproj.CoreCompileInputs.cache
+D:\Documentos Daniel\CODIGOS\C#\Nova pasta\CalcType1\CalcType1\obj\Debug\CalcType1.exe
+D:\Documentos Daniel\CODIGOS\C#\Nova pasta\CalcType1\CalcType1\obj\Debug\CalcType1.pdb
